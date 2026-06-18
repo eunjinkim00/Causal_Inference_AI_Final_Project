@@ -9,6 +9,6 @@ Files
 - causal_dag.png : Final DAG
 - edges.csv : Knowledge graph edges
 - final_project_report.pdf : Final report
-- newspaper_dataset.xlsx : Original dataset containing historical newspaper articles 
 - newspaper_dataset.csv : Extracted causal assertions dataset
+- newspaper_dataset.xlsx : Original dataset containing historical newspaper articles 
 - nodes.csv : Knowledge graph nodes
