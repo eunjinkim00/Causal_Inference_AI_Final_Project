@@ -1,0 +1,10 @@
+﻿id,type
+Parental Neglect,Treatment
+Juvenile Delinquency,Outcome
+Broken Homes,Confounder Candidate
+Poverty,Confounder Candidate
+Working Mothers,Upstream Cause
+Shiftlessness,Upstream Cause
+Wartime Conditions,Upstream Cause
+Comic Books,Alternative Explanation
+Moving Pictures,Alternative Explanation
