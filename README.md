@@ -5,7 +5,8 @@ How did historical newspapers explain the causes of juvenile delinquency?
 
 Files:
 - Final_Project_Report.pdf
-- Causal_Interference.ipynb
-- nodes.csv
-- edges.csv
+- Causal_analysis.ipynb
 - causal_dag.png
+- edges.csv
+- nodes.csv
+
